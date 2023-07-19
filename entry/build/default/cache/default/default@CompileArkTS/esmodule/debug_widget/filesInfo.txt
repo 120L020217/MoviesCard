@@ -1,0 +1,1 @@
+D:/Huawei/Workplace/final/MovieCard/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug_widget/entry/src/main/ets/card22/pages/Card22Card.js;com.huawei.moviecard/entry/ets/card22/pages/Card22Card;esm;entry/src/main/ets/card22/pages/Card22Card.ets;entry

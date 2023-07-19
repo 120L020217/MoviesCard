@@ -1,0 +1,236 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Main program entry"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MovieCard"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "Service Card Entry"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "Service Card"
+    },
+    {
+      "name": "expand_text",
+      "value": "Unfolding"
+    },
+    {
+      "name": "collapse_text",
+      "value": "Collapse "
+    },
+    {
+      "name": "text_movie_details",
+      "value": "Movie Details "
+    },
+    {
+      "name": "history_record",
+      "value": "History"
+    },
+    {
+      "name": "open_my_love",
+      "value": "Open my favorite"
+    },
+    {
+      "name": "open_history_record",
+      "value": "Open history"
+    },
+    {
+      "name": "open_message",
+      "value": "Open message"
+    },
+    {
+      "name": "open_shopping_cart",
+      "value": "Open shopping cart"
+    },
+    {
+      "name": "open_my_goal",
+      "value": "Open my goal"
+    },
+    {
+      "name": "open_group",
+      "value": "Open group"
+    },
+    {
+      "name": "open_favorites",
+      "value": "Open favorites"
+    },
+    {
+      "name": "open_recycle_bin",
+      "value": "Open Recycle Bin"
+    },
+    {
+      "name": "open_rankings",
+      "value": "Open rankings"
+    },
+    {
+      "name": "open_new",
+      "value": "Open new product debut"
+    },
+    {
+      "name": "open_brand",
+      "value": "Open big name flash"
+    },
+    {
+      "name": "open_found",
+      "value": "Open find good things"
+    },
+    {
+      "name": "open_news",
+      "value": "Push is on"
+    },
+    {
+      "name": "close_news",
+      "value": "Push is off"
+    },
+    {
+      "name": "open_data",
+      "value": "Open data management"
+    },
+    {
+      "name": "open_menu",
+      "value": "Open menu settings"
+    },
+    {
+      "name": "mine_list_news",
+      "value": "Push Notifications"
+    },
+    {
+      "name": "mine_list_data",
+      "value": "Data Management"
+    },
+    {
+      "name": "mine_list_menu",
+      "value": "Menu Settings"
+    },
+    {
+      "name": "clear_storage",
+      "value": "Clear cache succeeded"
+    },
+    {
+      "name": "to_bottom",
+      "value": "-- 已经到底了 --"
+    },
+    {
+      "name": "refresh_text",
+      "value": "正在刷新"
+    },
+    {
+      "name": "click_to_play",
+      "value": "播放"
+    },
+    {
+      "name": "check_privacy",
+      "value": "Check privacy agreement"
+    },
+    {
+      "name": "mine_toggle",
+      "value": "switch"
+    },
+    {
+      "name": "mine_list_about",
+      "value": "About"
+    },
+    {
+      "name": "mine_list_storage",
+      "value": "Clear Cache"
+    },
+    {
+      "name": "mine_list_privacy",
+      "value": "Privacy Agreement"
+    },
+    {
+      "name": "favorites",
+      "value": "Favorites"
+    },
+    {
+      "name": "open_about",
+      "value": "Open about"
+    },
+    {
+      "name": "message",
+      "value": "Message"
+    },
+    {
+      "name": "shopping_cart",
+      "value": "Shopping cart"
+    },
+    {
+      "name": "page_fiction",
+      "value": "fiction movies"
+    },
+    {
+      "name": "my_love",
+      "value": "My favorite"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "page_funny",
+      "value": "funny movies"
+    },
+    {
+      "name": "want_to_see",
+      "value": "Want to see"
+    },
+    {
+      "name": "story_introduction",
+      "value": "Synopsis of the story"
+    },
+    {
+      "name": "starring_text",
+      "value": "Starring"
+    },
+    {
+      "name": "starring_count",
+      "value": "All 6"
+    },
+    {
+      "name": "actors",
+      "value": "Xiao Ming"
+    },
+    {
+      "name": "play_the_role",
+      "value": "Decorated Da Bai"
+    },
+    {
+      "name": "stills",
+      "value": "Stills"
+    },
+    {
+      "name": "stills_count",
+      "value": "All 4"
+    },
+    {
+      "name": "list_page_title",
+      "value": "Popular Movie Rankings"
+    },
+    {
+      "name": "MovieDetailsAbility_desc",
+      "value": "MovieDetailsDescription"
+    },
+    {
+      "name": "MovieDetailsAbility_label",
+      "value": "MovieCardDetails"
+    },
+    {
+      "name": "title_immersive",
+      "value": "Today's delicious food"
+    },
+    {
+      "name": "detail_immersive",
+      "value": "A bowl of fragrant fried noodles, back to childhood memories"
+    }
+  ]
+}

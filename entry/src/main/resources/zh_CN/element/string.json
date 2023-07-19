@@ -1,0 +1,236 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "主程序入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "电影卡片"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "服务卡片入口"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "服务卡片"
+    },
+    {
+      "name": "page_funny",
+      "value": "滑稽电影"
+    },
+    {
+      "name": "page_fiction",
+      "value": "科幻电影"
+    },
+    {
+      "name": "expand_text",
+      "value": "展开"
+    },
+    {
+      "name": "collapse_text",
+      "value": "收起"
+    },
+    {
+      "name": "text_movie_details",
+      "value": "电影详情"
+    },
+    {
+      "name": "want_to_see",
+      "value": "想看"
+    },
+    {
+      "name": "story_introduction",
+      "value": "剧情简介"
+    },
+    {
+      "name": "starring_text",
+      "value": "主演"
+    },
+    {
+      "name": "starring_count",
+      "value": "全部 6"
+    },
+    {
+      "name": "actors",
+      "value": "小明"
+    },
+    {
+      "name": "play_the_role",
+      "value": "饰 大白"
+    },
+    {
+      "name": "stills",
+      "value": "剧照"
+    },
+    {
+      "name": "stills_count",
+      "value": "全部 4"
+    },
+    {
+      "name": "account",
+      "value": "搜索"
+    },
+    {
+      "name": "history_record",
+      "value": "历史记录"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "open_my_love",
+      "value": "打开我的喜欢"
+    },
+    {
+      "name": "open_history_record",
+      "value": "打开历史记录"
+    },
+    {
+      "name": "open_message",
+      "value": "打开消息"
+    },
+    {
+      "name": "open_shopping_cart",
+      "value": "打开购物车"
+    },
+    {
+      "name": "open_my_goal",
+      "value": "打开我的目标"
+    },
+    {
+      "name": "open_group",
+      "value": "打开圈子"
+    },
+    {
+      "name": "open_favorites",
+      "value": "打开收藏"
+    },
+    {
+      "name": "open_recycle_bin",
+      "value": "打开回收站"
+    },
+    {
+      "name": "open_rankings",
+      "value": "打开排行榜"
+    },
+    {
+      "name": "open_new",
+      "value": "打开新品发布"
+    },
+    {
+      "name": "open_brand",
+      "value": "打开大牌闪购"
+    },
+    {
+      "name": "open_found",
+      "value": "打开发现好物"
+    },
+    {
+      "name": "open_news",
+      "value": "推送已打开"
+    },
+    {
+      "name": "close_news",
+      "value": "推送已关闭"
+    },
+    {
+      "name": "open_data",
+      "value": "打开任务中心"
+    },
+    {
+      "name": "open_menu",
+      "value": "打开设置"
+    },
+    {
+      "name": "open_about",
+      "value": "打开关于"
+    },
+    {
+      "name": "shopping_cart",
+      "value": "Shopping cart"
+    },
+    {
+      "name": "my_love",
+      "value": "喜欢"
+    },
+    {
+      "name": "list_page_title",
+      "value": "热门电影"
+    },
+    {
+      "name": "mine_list_news",
+      "value": "消息推送"
+    },
+    {
+      "name": "mine_list_data",
+      "value": "任务中心"
+    },
+    {
+      "name": "mine_list_menu",
+      "value": "设置"
+    },
+    {
+      "name": "mine_list_about",
+      "value": "关于"
+    },
+    {
+      "name": "mine_toggle",
+      "value": "开关"
+    },
+    {
+      "name": "clear_storage",
+      "value": "清除缓存成功"
+    },
+    {
+      "name": "check_privacy",
+      "value": "查看个人信息"
+    },
+    {
+      "name": "mine_list_storage",
+      "value": "清除缓存"
+    },
+    {
+      "name": "mine_list_privacy",
+      "value": "个人信息"
+    },
+    {
+      "name": "favorites",
+      "value": "收藏"
+    },
+    {
+      "name": "MovieDetailsAbility_desc",
+      "value": "电影详情描述"
+    },
+    {
+      "name": "MovieDetailsAbility_label",
+      "value": "电影详情"
+    },
+    {
+      "name": "to_bottom",
+      "value": "-- 已经到底了 --"
+    },
+    {
+      "name": "click_to_play",
+      "value": "播放"
+    },
+    {
+      "name": "refresh_text",
+      "value": "正在刷新"
+    },
+    {
+      "name": "title_immersive",
+      "value": "今日美食推荐"
+    },
+    {
+      "name": "detail_immersive",
+      "value": "一碗香喷喷的炸酱面，回到儿时的青涩回忆"
+    }
+  ]
+}
